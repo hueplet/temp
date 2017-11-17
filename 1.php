@@ -1,4 +1,9 @@
 <?php
+/**
+* Requare > PHP 7.0
+*
+*/
+
 declare(strict_types=1);
 
 echo "Hello, World!\n";
