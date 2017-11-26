@@ -29,7 +29,7 @@ class Books
 /**
 * 
 */
-class BookWiter
+class BookWriter
 {
 	
 	function __construct()
@@ -49,7 +49,7 @@ class Wrong{ }
 
 $book1 = new Books("Наполеон", 100);
 
-$writer = new BookWiter();
+$writer = new BookWriter();
 $writer->write($book1);
 
 
